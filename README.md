@@ -1,5 +1,6 @@
 # Model_API_Server
 A simple api server for pretrained model processing internet request
+based on `pyhton` and `flask`
 
 ## Preparation
 1. Put your pretrained model in main directory.
